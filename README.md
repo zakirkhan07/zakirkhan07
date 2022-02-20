@@ -1,6 +1,6 @@
-##### Hey, I'm Zakir khan, a Full Stack Developer 🚀 from India, I usually like to work with ReactJS, Web3.o, React-native/JavaScript, or similar fields, however I am agnostically curious when it comes to new technologies, Blockchain, and crypto and I am happy to collaborate on projects across any of those disciplines.
+Hey, I'm Zakir khan, a Full Stack Developer 🚀 from India, I usually like to work with ReactJS, Web3.o, React-native/JavaScript, or similar fields, however I am agnostically curious when it comes to new technologies, Blockchain, and crypto and I am happy to collaborate on projects across any of those disciplines.
 
-#####When not behind the keyboard, you can catch me out mountain trekking, feeding stray dogs, playing a sport (football), messing around with music 🎧 or spending some sort of time with friends.
+When not behind the keyboard, you can catch me out mountain trekking, feeding stray dogs, playing a sport (football), messing around with music 🎧 or spending some sort of time with friends.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -54,7 +54,7 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zakirkhan07/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-zakirkhan-blue"></a>
+<a href="https://www.linkedin.com/in/zakir-khan07/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-zakirkhan-blue"></a>
 <a href="https://www.instagram.com/iamzrk/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-iamzrk-red"></a>
 <a href="https://twitter.com/izakirsm"><img alt="Twitter" src="https://img.shields.io/badge/izakirsm-blue"></a>
 </p>
