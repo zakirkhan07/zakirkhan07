@@ -6,7 +6,7 @@ When not behind the keyboard, you can catch me out mountain trekking, feeding st
 
 - 🤔 &nbsp;  I am currently learning Web3.O-Blockchain.
 - 💼 &nbsp; I am looking to collaborate on Open source projects.
-- 🌱 &nbsp; I’m currently working on ReactJs, JavaScript Next.js Node Js React native (Cross-platform).
+- 🌱 &nbsp; I’m currently working on  React native (Cross-platform)  Reactjs, JavaScript Next.js Node Js.
 💬 Ask me about: tech, memes, anime
 - ⚡️ &nbsp; Fun fact: I like making memes and Pizza over anything.
 ### 🛠️ Languages and Tools:
