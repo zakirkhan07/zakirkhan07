@@ -1,4 +1,4 @@
-Hey, I'm Zakir khan, a Full Stack Developer 🚀 from India, I usually like to work with ReactJS, Web3.o, React-native/JavaScript, or similar fields, however I am agnostically curious when it comes to new technologies, Blockchain, and crypto and I am happy to collaborate on projects across any of those disciplines.
+Hey, I'm Zakir khan, a Full Stack Developer 🚀 from India, I usually like to work with iOS/Flutter, web3.O or similar fields, however I am agnostically curious when it comes to new technologies, Blockchain, and crypto and I am happy to collaborate on projects across any of those disciplines.
 
 When not behind the keyboard, you can catch me out mountain trekking, feeding stray dogs, playing a sport (football), messing around with music 🎧 or spending some sort of time with friends.
 
