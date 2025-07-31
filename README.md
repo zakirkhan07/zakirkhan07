@@ -2,14 +2,7 @@ Hey, I'm Zakir khan, a Full Stack Developer 🚀 from India, I usually like to w
 
 When not behind the keyboard, you can catch me out mountain trekking, feeding stray dogs, playing a sport (football), messing around with music 🎧 or spending some sort of time with friends.
 
-### 👨🏻‍💻 &nbsp;About Me
-
-- 🤔 &nbsp;  I am currently learning Web3.O-Blockchain.
-- 💼 &nbsp; I am looking to collaborate on Open source projects.
-- 🌱 &nbsp; I’m currently working on  React native (Cross-platform)  Reactjs, JavaScript Next.js Node Js.
-💬 Ask me about: tech, memes, anime
-- ⚡️ &nbsp; Fun fact: I like making memes and Pizza over anything.
-### 🛠️ Languages and Tools:
+### 👨🏻‍💻 &nbsp;About M
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
