@@ -1,33 +1,58 @@
-Hey, I'm Zakir khan, a Full Stack Developer 🚀 from India, I usually like to work with iOS/Flutter, web3.O or similar fields, however I am agnostically curious when it comes to new technologies, Blockchain, and crypto and I am happy to collaborate on projects across any of those disciplines.
+# Hey, I'm Zakir Khan 👋
 
-When not behind the keyboard, you can catch me out mountain trekking, feeding stray dogs, playing a sport (football), messing around with music 🎧 or spending some sort of time with friends.
+Mobile app developer from India with 3+ years shipping iOS, React Native, and Flutter apps used by 23M+ people. I spend most of my time in Swift and SwiftUI, but I'm equally at home in Dart or JavaScript when the project calls for it. Currently building enterprise-grade mobile apps at Deloitte — banking, energy, healthcare — where performance and security actually matter.
 
-### 👨🏻‍💻 &nbsp;About M
+I'm genuinely curious about Web3, blockchain, and what's next in mobile. Happy to collaborate on anything across those spaces.
 
+When I'm not behind a keyboard — mountain trekking, feeding stray dogs, playing football, or messing around with music 🎧
+
+---
+
+### 📱 &nbsp;What I Work With
+
+**iOS**
+
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
+![UIKit](https://img.shields.io/badge/-UIKit-black?style=flat-square&logo=apple)
+![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
+![Objective-C](https://img.shields.io/badge/-Objective--C-black?style=flat-square&logo=apple)
+![Combine](https://img.shields.io/badge/-Combine-black?style=flat-square&logo=apple)
+![Core Data](https://img.shields.io/badge/-Core%20Data-black?style=flat-square&logo=apple)
+![TestFlight](https://img.shields.io/badge/-TestFlight-black?style=flat-square&logo=apple)
+
+**Cross-Platform**
+
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+
+**Backend & Cloud**
+
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+**Tooling**
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Fastlane](https://img.shields.io/badge/-Fastlane-black?style=flat-square&logo=fastlane)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 
+---
+
+### 🚀 &nbsp;Things I've Shipped
+
+| App | Stack | Scale |
+|-----|-------|-------|
+| HDFC Mobile Banking | SwiftUI · UIKit · Combine · Core Data | 15M+ users · 4.8★ |
+| Hello BPCL | SwiftUI · UIKit · AVFoundation · Google Maps | 8M+ users · 4.6★ |
+| MedCab Ambulance | SwiftUI · Socket.IO · Core Location · Firebase | 10K+ users |
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -40,14 +65,18 @@ When not behind the keyboard, you can catch me out mountain trekking, feeding st
 
 ---
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)]
+### 🎧 &nbsp;Spotify Playing
 
-------
-### 🤝🏻 &nbsp;Connect with Me 
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://novatorem.visualbean.vercel.app/api/spotify)
+
+---
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zakir-khan07/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-zakirkhan-blue"></a>
-<a href="https://www.instagram.com/iamzrk/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-iamzrk-red"></a>
-<a href="https://twitter.com/izakirsm"><img alt="Twitter" src="https://img.shields.io/badge/izakirsm-blue"></a>
+<a href="https://www.linkedin.com/in/zakir-khan07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zakir--khan07-blue?style=flat-square&logo=linkedin"></a>
+&nbsp;
+<a href="https://www.instagram.com/iamzrk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamzrk-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+&nbsp;
+<a href="https://twitter.com/izakirsm"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-izakirsm-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
