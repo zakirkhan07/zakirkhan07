@@ -2,6 +2,8 @@
 
 Mobile app developer from India with 3+ years shipping iOS, React Native, and Flutter apps used by 23M+ people. I spend most of my time in Swift and SwiftUI, but I'm equally at home in Dart or JavaScript when the project calls for it. Currently building enterprise-grade mobile apps at Deloitte — banking, energy, healthcare — where performance and security actually matter.
 
+I work with AI-assisted development daily — Claude for architecture decisions and code review, Cursor for agentic coding workflows, and GitHub Copilot for in-editor suggestions. It's changed how fast I can move from idea to shipped feature.
+
 I'm genuinely curious about Web3, blockchain, and what's next in mobile. Happy to collaborate on anything across those spaces.
 
 When I'm not behind a keyboard — mountain trekking, feeding stray dogs, playing football, or messing around with music 🎧
@@ -35,12 +37,32 @@ When I'm not behind a keyboard — mountain trekking, feeding stray dogs, playin
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
+**AI & Agentic Coding**
+
+![Claude](https://img.shields.io/badge/-Claude-black?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-black?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat-square&logo=github)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai&logoColor=white)
+
 **Tooling**
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Fastlane](https://img.shields.io/badge/-Fastlane-black?style=flat-square&logo=fastlane)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+
+---
+
+### 🤖 &nbsp;How I Use AI in My Workflow
+
+I treat AI tools as a core part of how I develop, not a shortcut. Here's what that actually looks like day-to-day:
+
+- **Claude** — architecture reviews, writing XCTest suites, debugging tricky Combine pipelines, and thinking through security trade-offs before writing a line of code
+- **Cursor** — agentic coding sessions where I can refactor entire modules, generate boilerplate SwiftUI views, and navigate large codebases conversationally
+- **GitHub Copilot** — in-editor autocomplete for repetitive patterns: URLSession requests, Codable models, Core Data fetch descriptors
+- **Prompt engineering** — writing precise prompts to generate first drafts of view models, unit tests, and CI/CD configs that I then review and refine
+
+The result: faster from spec to PR, fewer context switches, and more time spent on the hard architectural decisions that actually need a human.
 
 ---
 
